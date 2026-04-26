@@ -27,14 +27,6 @@ A comprehensive analysis of Formula 1 history through race winners, driver domin
 | Williams Renault | 64 |
 | Lotus Ford | 47 |
 
-### Geographic Distribution
-- **Europe**: 686 races (60% of total)
-- **Asia**: 163 races
-- **North America**: 158 races
-
-### Race Evolution
-- Average race time dropped from **2h52m (1950s)** to **1h37m (2020s)**
-- Season grew from **7 races (1950)** to **24 races (2024)**
 
 ## Technologies
 - Python 3.13
